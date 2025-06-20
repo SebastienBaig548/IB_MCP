@@ -5,3 +5,4 @@ description = "This project provides an Interactive Brokers (IB) API interface u
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # guard against empty input
+# clarify the control flow
